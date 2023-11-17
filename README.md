@@ -131,19 +131,19 @@ The function that connects all the previous ones to produce the final photograph
 ## Results
 1. Image without processing, from the original data:
 
-![Result 0](/images/result0.jpg)
+![Result 0](/images/0.jpg)
 
 2. Image after shift=t1
 
-![Result 1](/images/result1.jpg)
+![Result 1](/images/1.jpg)
 
 3. Image after rotation φ angles
 
-![Result 2](/images/result2.jpg)
+![Result 2](/images/2.jpg)
 
 4. Image after shift=t2
 
-![Result 3](/images/result3.jpg)
+![Result 3](/images/3.jpg)
 
 
 
